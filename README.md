@@ -6,4 +6,5 @@ Previous versions of this software have been shipped out. The credentials to log
 
 username: admin
 password: #:)aX:)=:)c00l
-** the login portal accepts usernames instead of emails **
+
+##** the login portal accepts usernames instead of emails **##
